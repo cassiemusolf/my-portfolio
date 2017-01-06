@@ -5,8 +5,14 @@
   position: relative;
 }
 
+@media screen and (min-width: 500px) {
+  h1 {
+    font-size: 20px;
+  }
+}
+
 body {
-  background-color: #E8E8E8;
+  background-color: #D7F3F1;
 }
 
 h1 {
@@ -15,7 +21,7 @@ h1 {
   padding-left: 160px;
   font-family: cursive;
   color: #bec1c6;
-  font-size: 70px;
+  font-size: 60px;
   border-bottom: grey;
 }
 
@@ -27,8 +33,24 @@ h2 {
   border: solid;;
   border-width: thin;
   border-color: #bec1c6;
-  padding: 20px;
+  padding: 10px;
   margin-left: 150px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 20px;
+  font-family: serif;
+  text-align: center;
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+  padding: 10px;
+  background-color: #bec1c6;
+  color: black;
 }
 
 ul {
@@ -38,14 +60,18 @@ ul {
   font-size: 20px;
 }
 
+.sub {
+  font-size: 15px;
+}
+
 .container {
-  margin-top: 350px;
+  margin-top: 150px;
   margin-left: 100px;
   position: absolute;
 }
 
 .panel-default .panel-heading {
-  padding: 5px;
+  padding: 1px;
   text-align: center;
   font-family: cursive;
   background-color: #bec1c6;
@@ -53,30 +79,15 @@ ul {
   border-width: thin;
 }
 
-h3 {
-  font-size: 30px;
-}
-
-.worktable {
-  padding: 0px;
-}
-
-h5 {
-  font-size: 30px;
-  font-family: cursive;
-  text-align: center;
-  border-style: solid;
-  border-width: thin;
-  border-color: black;
-  padding: 10px;
-  background-color: white;
-  color: black;
-}
-
 p {
   font-family: cursive;
+  font-size: 15px;
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 0px;
 }
 
-img {
-  padding: 0px;
+.move {
+  padding-top: 0px;
+  padding-bottom: 20px;
 }
