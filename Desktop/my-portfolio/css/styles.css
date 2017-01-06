@@ -5,12 +5,6 @@
   position: relative;
 }
 
-@media screen and (min-width: 500px) {
-  h1 {
-    font-size: 20px;
-  }
-}
-
 body {
   background-color: #D7F3F1;
 }
@@ -68,6 +62,7 @@ ul {
   margin-top: 150px;
   margin-left: 100px;
   position: absolute;
+  margin-bottom: 50px;
 }
 
 .panel-default .panel-heading {
@@ -79,15 +74,15 @@ ul {
   border-width: thin;
 }
 
+
+
 p {
   font-family: cursive;
   font-size: 15px;
   color: black;
   padding-top: 10px;
-  padding-bottom: 0px;
 }
 
-.move {
-  padding-top: 0px;
-  padding-bottom: 20px;
+img {
+  border-radius: 25px;
 }
