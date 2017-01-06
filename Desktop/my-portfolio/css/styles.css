@@ -14,11 +14,6 @@ h1 {
   font-size: 50px;
 }
 
-.image-wrapper {
-  position: relative;
-  width: 250px;
-}
-
 h2 {
   position: absolute;
   top: 240px;
@@ -33,9 +28,21 @@ h2 {
 
 ul {
   list-style: none;
+  padding: 10px;
 }
 
 .container {
   margin-top: 350px;
+  margin-left: 100px;
   position: absolute;
+}
+
+.panel-heading {
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+}
+
+h3 {
+  font-size: 30px;
 }
