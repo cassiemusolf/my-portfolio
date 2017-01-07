@@ -11,8 +11,8 @@ body {
 
 h1 {
   position: absolute;
-  top: 150px;
-  padding-left: 160px;
+  top: 70px;
+  padding-left: 95px;
   font-family: cursive;
   color: #bec1c6;
   font-size: 60px;
@@ -21,14 +21,14 @@ h1 {
 
 h2 {
   position: absolute;
-  top: 270px;
+  top: 170px;
   color: #bec1c6;
   font-family: cursive;
   border: solid;;
   border-width: thin;
   border-color: #bec1c6;
   padding: 10px;
-  margin-left: 150px;
+  margin-left: 73px;
 }
 
 h3 {
