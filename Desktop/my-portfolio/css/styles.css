@@ -65,6 +65,12 @@ ul {
   margin-bottom: 50px;
 }
 
+.panel-default {
+  background-color: #eaecef;
+  border-color: black;
+  border-width: thin;
+}
+
 .panel-default .panel-heading {
   padding: 1px;
   text-align: center;
@@ -73,8 +79,6 @@ ul {
   border-color: black;
   border-width: thin;
 }
-
-
 
 p {
   font-family: cursive;
