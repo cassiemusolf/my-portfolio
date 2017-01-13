@@ -1,20 +1,20 @@
-My Portfolio
+# My Portfolio
 
-Building my first web development portfolio.
+#### _Building my first web development portfolio._
 
-First Epicodus Independent Project, 01.06.2017
+## First Epicodus Independent Project, 01.06.2017
 
-Cassie Musolf
+## Cassie Musolf
 
-## Description
+### Description
 
 This project is the first of my independent Epicodus projects. I built a web developer portfolio for myself using an HTML webpage that is styled using Bootstrap and my own CSS stylesheet. I included an about me section, a few goals, and attached links to some of my past work with descriptions.
 
 ## Setup/Installation Requirements
 
-Make sure you're connected to the internet
+* Make sure you're connected to the internet
 
-Clone this repository
+* Clone this repository
 
 ## Known Bugs
 
@@ -22,17 +22,17 @@ When the screen size decreases the top photo banner changes with it but the head
 
 ## Support and contact details
 
-If you run into any problems loading the code or reading it, please, contact me via email cassiemusolf@gmail.com
+_If you run into any problems loading the code or reading it, please, contact me via email cassiemusolf@gmail.com_
 
 ## Technologies Used
 
-  HTML
-  CSS
-  Bootstrap styling classes
-  Top photo banner from Bootstrap
+ * HTML</br>
+ * CSS</br>
+ * Bootstrap styling classes</br>
+ * Top photo banner from Bootstrap
 
 ### License
 
-This webpage is licensed under the MIT license.
+_This webpage is licensed under the MIT license._
 
 Copyright (c) 2017 Cassie Musolf
